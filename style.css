@@ -1,0 +1,97 @@
+h1{
+    color:#722F37; 
+    font-size: 60px; 
+    font-family: cursive;
+    border: 5px solid #255425;
+    text-align: center;
+    background-color: azure;
+    padding: 10px;
+    margin: 20px;
+    border-radius: 100px;
+}
+
+h3{
+    color:#722F37;
+    background-color: azure;
+    border: 5px solid #255425;
+    padding: 1%;
+    margin: 1%;
+    border-radius: 25px;
+    text-align: center;
+}
+
+h4{
+    color:#722F37;
+    background-color: azure;
+    border: 5px solid #255425;
+    padding: 1%;
+    margin: 1%;
+    border-radius: 25px;
+    text-align: center;
+}
+
+p{
+    color: #800080; 
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    background-color: antiquewhite;
+    padding: 5px;
+    margin: 5px;
+    border-radius: 25px;
+}
+
+body{
+    background-image: url(fundo1.jpg);
+    background-attachment: scroll;
+    background-position: top;
+    background-size: 100%;
+}
+
+li{
+    color: #800080;
+    background-color: antiquewhite;
+    text-align: center;
+    padding: 1%;
+    margin: 1%;
+    border-radius: 25px
+}
+
+img{
+    border-radius: 25px;
+    border: 5px solid #0000CD;        
+}
+
+div{
+    color:#722F37;
+    background-color: azure;
+    border: 5px solid #255425;
+    padding: 1%;
+    margin: 1%;
+    border-radius: 25px;
+    text-align: center;
+}
+
+#Apresentação{    
+    color:#722F37;
+    background-color: azure;
+    border: 5px solid #255425;
+    padding: 1%;
+    margin: 1%;
+    border-radius: 25px;
+    text-align: center;         
+}
+
+.estilo0{    
+    color:#722F37;
+    background-color: azure;
+    border: 5px solid #255425;
+    padding: 1%;
+    margin: 1%;
+    border-radius: 25px;
+    text-align: center;
+}
+
+#teste00{
+    color: #800080;
+    background-color: #255425;
+    text-align: end;
+}
