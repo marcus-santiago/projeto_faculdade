@@ -67,7 +67,8 @@ div{
     padding: 1%;
     margin: 1%;
     border-radius: 25px;
-    text-align: center;
+    display: inline-block;
+    
 }
 
 #Apresentação{    
@@ -94,4 +95,21 @@ div{
     color: #800080;
     background-color: #255425;
     text-align: end;
+    display: inline-block;
+}
+
+#teste1{
+    color: #800080;
+    background-color: #255425;
+    text-align: end;
+    display: inline-block;
+    width: 50%;
+}
+
+#teste2{
+    color: #800080;
+    background-color: #255425;
+    text-align: end;
+    display: inline-block;
+    width: 50%
 }

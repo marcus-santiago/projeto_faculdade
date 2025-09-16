@@ -1,0 +1,15 @@
+.container{
+    width: 500px;
+    height: auto;
+    text-align: justify;
+
+}
+
+.flutuante{
+    background-image: url(fundo1.jpg);
+    float: right;
+    width: 300px;
+    height: 180px;
+    margin: 10px;
+    padding: 10px;
+}
